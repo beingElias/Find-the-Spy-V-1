@@ -14,13 +14,10 @@ Find the Spy is designed for people who enjoy social deduction games. It brings 
 - Multiplayer experience
 - Social deduction gameplay
 - Lightweight Android application
+- 
 - Simple and user-friendly interface
 
 📱 Download
-
-Latest Version: V1.0.4
-
-"Download Find the Spy APK" (https://github.com/beingElias/Find-the-Spy-V-1/releases/download/V1.0.4/Find_the_Spy_v1.0.4_1795576976999.apk)
 
 Installation
 
@@ -45,7 +42,7 @@ Technologies & Tools:
 📌 Project Information
 
 - Project: Find the Spy
-- Version: 1.0.4
+- Version: 1
 - Platform: Android
 - Internet Requirement: Offline
 
